@@ -52,9 +52,7 @@
 
 ## 🌟 **My Projects**  
 Check out some of my featured projects:  
-- **[Project Name 1](#)**: A brief description of the project.  
-- **[Project Name 2](#)**: A brief description of the project.  
-- **[Project Name 3](#)**: A brief description of the project.  
+
 
 📂 **All of my projects are available at:** [GitHub](https://github.com/muazje)  
 
@@ -69,7 +67,7 @@ Check out some of my featured projects:
 ## 📫 **Connect with Me**  
 - 💌 **Email:** [muazejam5@example.com](mailto:muazejam5@example.com)  
 - 💼 **LinkedIn:** [Muaz Jemal](https://www.linkedin.com/in/muaz-jemal-0b001b295/)  
-- 🌐 **Portfolio:** [muazportfolio.vercel.app](https://muazportfolio.vercel.app/)  
+- 🌐 **Portfolio:** [muazportfolio.vercel.app](https://bestportfolio.vercel.app/)  
 
 ---
 
